@@ -1,0 +1,1 @@
+Exploring basic sqlite3 commands and creating, updating, deleting and joining databases
